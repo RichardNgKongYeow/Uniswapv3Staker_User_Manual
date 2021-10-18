@@ -17,7 +17,7 @@ description: 'Objectives: Check if your pool/token is eligible for our incentive
 <your tokenId>
 ```
 
-  6\. Click `query` (return example):
+6. Click `query` (return example):
 
 ```
  nonce uint96, operator address, token0 address, token1 address, fee uint24, tickLower int24, tickUpper int24, liquidity uint128, feeGrowthInside0LastX128 uint256, feeGrowthInside1LastX128 uint256, tokensOwed0 uint128, tokensOwed1 uint128
