@@ -7,7 +7,9 @@ description: 'Objectives: Stake, Unstake, Withdraw and Claim reward'
 ![](<../.gitbook/assets/UniV3Staker 18-10-21.png>)
 
 {% hint style="info" %}
-You may unstake and withdraw your tokens or claim rewards before the incentive has ended. The steps are the same.
+1. You may unstake then withdraw your tokens or claim rewards before the incentive has ended. The steps are the same.
+2. You may unstake then withdraw your tokens or claim rewards in whatever manner you would like. You do not need to withdraw token then claim rewards or vice versa.
+3. You may choose to withdraw tokens and not claim rewards or claim rewards and not withdraw tokens.
 {% endhint %}
 
 ### 0x1f98407aaB862CdDeF78Ed252D6f557aA5b0f00d
