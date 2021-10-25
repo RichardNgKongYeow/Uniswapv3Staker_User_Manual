@@ -20,11 +20,11 @@ description: >-
 
 ![](<../.gitbook/assets/Metamask to Etherscan.PNG>)
 
-   6\.  Input:
+&#x20;  6\.  Input:
 
-         1\.  to (address)
+&#x20;        1\.  to (address)
 
-         2\.  tokenId (uint256)
+&#x20;        2\.  tokenId (uint256)
 
 ```
 0x1f98407aaB862CdDeF78Ed252D6f557aA5b0f00d
@@ -33,7 +33,7 @@ description: >-
 
 > for Field 1, be sure to put in this address: 0x1f98407aaB862CdDeF78Ed252D6f557aA5b0f00d
 >
->  this is the contract address of UniswapV3Staker
+> &#x20;this is the contract address of UniswapV3Staker
 
 7\. Click `write`
 
@@ -59,7 +59,7 @@ description: >-
 >
 > this is the contract address of UniswapV3Staker
 
-  3\.  Click `write`
+&#x20; 3\.  Click `write`
 
 12\. A Metamask notification will appear, click `confirm`
 
